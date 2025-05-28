@@ -1,0 +1,6 @@
+[submodule "realme_GT-Neo3T-AndroidU-kernel-source"]
+	path = realme_GT-Neo3T-AndroidU-kernel-source
+	url = https://github.com/itsyourap/realme_GT-Neo3T-AndroidU-kernel-source.git
+[submodule "realme_GT-Neo3T-AndroidU-vendor-source"]
+	path = realme_GT-Neo3T-AndroidU-vendor-source
+	url = https://github.com/itsyourap/realme_GT-Neo3T-AndroidU-vendor-source.git
